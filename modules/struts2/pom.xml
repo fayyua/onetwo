@@ -18,7 +18,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <struts2.version>2.2.1.1</struts2.version>
+    <struts2.version>2.5.20</struts2.version>
     <xwork.version>2.2.1.1</xwork.version>
     <ajaxanywhere.version>1.2-rc2</ajaxanywhere.version>
   </properties>
