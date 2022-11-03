@@ -72,7 +72,7 @@
     
     <zxing.version>2.0</zxing.version>
     <jodatime.version>2.1</jodatime.version>
-    <fileupload.version>1.2.2</fileupload.version>
+    <fileupload.version>1.3.3</fileupload.version>
   </properties> 
 
 
